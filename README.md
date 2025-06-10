@@ -3,6 +3,8 @@ This is a simple ***AI and ML project*** created by me as part of the ***AICTE i
 
 This is a ***Lyrics-based Music Recommendation System***. It recommends songs based on the words and content of their lyrics
 
+Vist the Music_recommendation.ipynb file to see it working!
+
 I used a data set form Kaggle Data Set
 DataSet Link:-https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset/data
 
